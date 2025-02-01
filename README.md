@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Freespace - A Computer Vision Operated parking Website using Next.js 14
+# Gateless Parking - A Computer Vision Operated parking Website using Next.js 14
 
 <!-- Table of Contents
 <details>
